@@ -1,0 +1,7 @@
+mode: set
+github.com/six29/go-web-dev/main.go:8.13,10.16 2 0
+github.com/six29/go-web-dev/main.go:10.16,13.3 2 0
+github.com/six29/go-web-dev/main.go:14.2,14.34 1 0
+github.com/six29/go-web-dev/main.go:17.44,20.12 2 1
+github.com/six29/go-web-dev/main.go:20.12,22.3 1 1
+github.com/six29/go-web-dev/main.go:23.2,24.20 2 1
